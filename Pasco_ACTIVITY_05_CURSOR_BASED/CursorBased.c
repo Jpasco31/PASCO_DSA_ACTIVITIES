@@ -88,7 +88,7 @@ void visualizeSpace(VirtualHeap vh){
 }
 
 void deallocSpace(VirtualHeap *vh, int index){
-	if(index == -1 && index > MAX){
+	if(index <= -1 || index >= MAX){
 		return;
 	}
 	deallocUpdateList(vh, index);			// to update the list to where the current index is assigned to
