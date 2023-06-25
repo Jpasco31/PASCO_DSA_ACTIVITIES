@@ -12,5 +12,6 @@ CURRENT ACTIVITIES IN THE REPOSITORY
 - Activity 4 - Stack Array and Linked List
 - Activity 5 - Cursor Based
 - Activity 6 - QUEUE
+- Activity 7 - STACK AND QUEUE IMPLEMENTATION IN CURSOR-BASED
 
 NOTE: Activity 1 and 2 are in different repositories
