@@ -13,5 +13,6 @@ CURRENT ACTIVITIES IN THE REPOSITORY
 - Activity 5 - Cursor Based
 - Activity 6 - QUEUE
 - Activity 7 - STACK AND QUEUE IMPLEMENTATION IN CURSOR-BASED
+- Activity 8 - SETS
 
 NOTE: Activity 1 and 2 are in different repositories
