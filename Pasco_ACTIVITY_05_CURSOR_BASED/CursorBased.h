@@ -38,7 +38,7 @@ void deallocUpdateList(VirtualHeap *vh, int index);	// to update the list to whe
 Student removeStudent(VirtualHeap *vh, List *list, String keyword);	//remove the student in the List by name 
 //NOTE: only in the list it should not delete other students in other List in the Virtual HEAP
 
-#include "CursorBased.c"
+// #include "CursorBased.c"
 
 #endif
 
