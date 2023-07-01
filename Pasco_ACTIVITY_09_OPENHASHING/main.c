@@ -42,7 +42,7 @@ int main(int argc, char *argv[]) {
 	printf("My student 1: %s %s\n", myStudent.studName.fName, myStudent.studName.lName);
 	printf("My student 2: %s %s\n", myStudent2.studName.fName, myStudent2.studName.lName);
 
-	free(myD.elems);
+	freeDictionary(&myD);
 
 	return 0;
 }
