@@ -53,6 +53,7 @@ bool removeData(Dictionary *d, String lName, String ID);	//delete by Lastname an
 Student accessInfo(Dictionary d, String lName, String ID);	//search by student
 
 void visualize(Dictionary d);
+void freeDictionary(Dictionary *d);
 
-#include "OpenHashing.c"
+// #include "OpenHashing.c"
 #endif
