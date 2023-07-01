@@ -30,6 +30,6 @@ int doubleTheValue(Queue *q, int value);	//doubles the Q that is a multiple of t
 
 int countQueue(Queue q);
 
-#include "Circular.c"
+// #include "Circular.c"
 
 #endif
