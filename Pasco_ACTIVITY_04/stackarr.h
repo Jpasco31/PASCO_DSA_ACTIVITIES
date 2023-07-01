@@ -22,6 +22,6 @@ Data peek(Stack list);				//return the top
 void display(Stack list);						// display the top
 void visualize(Stack list);					//display the list
 
-#include "stackarr.c"
+// #include "stackarr.c"
 
 #endif
