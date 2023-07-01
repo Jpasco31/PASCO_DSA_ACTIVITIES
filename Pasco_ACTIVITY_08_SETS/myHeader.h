@@ -22,6 +22,6 @@ Set intersectionSet(Set a, Set b);
 Set differenceSet(Set a, Set b);
 Set symmetricDiffSet(Set a, Set b);
 
-#include "myHeader.c"
+// #include "myHeader.c"
 
 #endif
