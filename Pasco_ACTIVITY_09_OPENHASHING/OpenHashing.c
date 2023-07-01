@@ -181,3 +181,22 @@ void visualize(Dictionary d){
 
 	printf("Number of Index used: %d\n", d.count);
 }
+
+void freeDictionary(Dictionary *d){
+	int i;
+	for(i = 0; i < d->max; i++){
+		if(d->elems[i] != NULL){
+			SType *current = d->elems[i];
+			SType *toFree = NULL;
+			while(current != NULL){
+				toFree = current;
+				current = current->next;
+				free(toFree);
+			}
+		}
+	}
+
+	free(d->elems);
+
+	printf("\nDICTIONARY FREED\n");
+}
