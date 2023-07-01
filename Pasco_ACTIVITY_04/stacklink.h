@@ -22,6 +22,6 @@ void visualize(Stack list);			//display the list
 
 void freeStack(Stack list);		//free linked list
 
-#include "stacklink.c"
+// #include "stacklink.c"
 
 #endif
