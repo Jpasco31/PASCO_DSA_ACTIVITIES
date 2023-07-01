@@ -74,6 +74,6 @@ void stackManipulation(VirtualSpace *vh, StackList list[], int stackNum);
 void QUEUE(VirtualSpace *vh, Queue q[], int *count);
 void queueManipulation(VirtualSpace *vh, Queue q[], int count);
 
-#include "act7Product.c"
+// #include "act7Product.c"
 
 #endif
