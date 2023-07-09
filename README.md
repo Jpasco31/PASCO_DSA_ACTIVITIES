@@ -16,5 +16,6 @@ CURRENT ACTIVITIES IN THE REPOSITORY
 - Activity 8 - SETS
 - Activity 9 - Open Hashing Linked Lists
 - Activity 10 - Dictionary Cursor-Based
+- Activity 11 - Binary Search Tree
   
 NOTE: Activity 1 and 2 are in different repositories
