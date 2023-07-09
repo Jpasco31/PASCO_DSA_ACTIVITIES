@@ -40,6 +40,4 @@ BST *max(BST *list);
 BST *min(BST *list);
 bool isMember(BST *list, int prodID);
 
-#include "BST.c"
-
 #endif
